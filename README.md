@@ -1,5 +1,5 @@
 # Hospital-Patients-Record-System
-This is a hospital record system.
+This is a hospital record system project. Its a teminal based Project.
 Using this system you can 
     1 - Add a new patient.
     2 - Display all patients.
