@@ -1,4 +1,4 @@
-# Hospital Patients Record System
+# 🏥 Hospital Patients Record System 
 
 A C-based hospital management system used to manage patient records efficiently.
 
@@ -46,5 +46,5 @@ gcc main.c -o hospital
 ![Delete Patient](https://github.com/Avidny27/Hospital-Patients-Record-System/blob/7cf67a4dad44eb57dba8741fb47339564e18c0e0/delete.png)
 
 ### Update Patient
-![Update Patient]()
+![Update Patient](https://github.com/Avidny27/Hospital-Patients-Record-System/blob/f479fc1bde8f60159e271e38e738fc4d9e0dddda/update-patient.png)
     
