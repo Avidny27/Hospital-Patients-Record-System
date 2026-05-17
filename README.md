@@ -29,7 +29,14 @@ A C-based hospital management system used to manage patient records efficiently.
 ```bash
 gcc main.c -o hospital
 ./hospital
+```
 
-    
+## Screenshots
+
+### Main Menu
+![Main Menu](https://github.com/Avidny27/Hospital-Patients-Record-System/blob/5c5e31760dd951b89d13d4779df9cd7fed2dbbd7/main-menu.png)
+
+### Add Patient
+![Add Patient]
 
     
