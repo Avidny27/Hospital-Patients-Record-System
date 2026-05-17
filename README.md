@@ -37,6 +37,9 @@ gcc main.c -o hospital
 ![Main Menu](https://github.com/Avidny27/Hospital-Patients-Record-System/blob/5c5e31760dd951b89d13d4779df9cd7fed2dbbd7/main-menu.png)
 
 ### Add Patient
-![Add Patient]
+![Add Patient](https://github.com/Avidny27/Hospital-Patients-Record-System/blob/e94a5a8decae893baf5ec9d1feeecd00fe1dab53/add-patient.png)
+
+### Search Patient
+![Search Patient]()
 
     
