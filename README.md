@@ -13,7 +13,6 @@ A C-based hospital management system used to manage patient records efficiently.
 - C Language
 - Structures
 - Functions
-- File Handling
 
 ## Future Improvements
 - GUI version
